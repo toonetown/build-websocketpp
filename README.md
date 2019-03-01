@@ -1,6 +1,6 @@
 ## Websocket++ Packaging ##
 
-This project provides a script which will package Websocket++ headers in a similar manner to the other `build-*` projects.  It contains as a submodule, [toonetown/websocketpp][websocketpp-release] git project.
+This project provides a script which will package Websocket++ headers in a similar manner to the other `build-*` projects.  It contains as a submodule, [websocketpp][websocketpp-release] git project.
 
 [websocketpp-release]: https://github.com/toonetown/websocketpp
 
